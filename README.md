@@ -25,6 +25,7 @@ python main.py
 ## Requiremennts
 
 Python 3.x
+yt_dlp
 
 ## License
 
